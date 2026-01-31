@@ -1,6 +1,6 @@
 # emc-experiment
 
-This folder was pulled out of https://github.com/TeamDman/SuperFactoryManager on 2026-01-31T02:35:13.884Z.
+This folder was pulled out of https://github.com/TeamDman/SuperFactoryManager/tree/b93eb205ebe02a123ccace8ec44c99074b13f43b on 2026-01-31T02:35:13.884Z.
 Here is an AI summary.
 
 **A concise, semantic overview** — this repository is an archival research snapshot containing experiments, analysis, and tooling related to deriving and exploring "EMC" values and conversion relationships discovered during work on a Minecraft 1.19.2 codebase.
